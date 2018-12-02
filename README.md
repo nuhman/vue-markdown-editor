@@ -1,7 +1,14 @@
-# test-project
+# vue-markdown-editor
 
-> A Vue.js project
-
+> A github flavoured markdown editor  
+> [See it in action](https://k50vjkn6x7.codesandbox.io/) 
+> Built as a `frontent library` project for [freecodecamp](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)  
+  
+  
+### Used:  
+* Vue.js
+* Marked.js  
+  
 ## Build Setup
 
 ``` bash
