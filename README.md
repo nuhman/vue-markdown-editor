@@ -1,8 +1,7 @@
 # vue-markdown-editor
 
 > A github flavoured markdown editor  
-> [See it in action](https://k50vjkn6x7.codesandbox.io/) 
-> Built as a `frontent library` project for [freecodecamp](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)  
+> Built as a `frontent library` project for [freecodecamp](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer). Also, [See it in action](https://w00q1o7ml.codesandbox.io/).  
   
   
 ### Used:  
